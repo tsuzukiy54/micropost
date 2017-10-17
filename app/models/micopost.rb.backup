@@ -1,0 +1,3 @@
+class Micopost < ApplicationRecord
+  belongs_to :user
+end
